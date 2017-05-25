@@ -57,6 +57,7 @@ When you are finished with lab, follow these steps to submit your work. Create o
  - Ensure your code passes ESLint
  - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again.
  - Link to your live site in your README, for whichever repo you deploy.
+**Deployed at https://ryanblogapp.herokuapp.com/**
 
 #### Stretch Goals  
 
